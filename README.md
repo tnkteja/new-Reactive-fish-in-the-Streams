@@ -1,8 +1,8 @@
 # :open_mouth:  :new: Reactive :fish: in the Streams
 
->Rational behavior requires theory. Reactive behavior requires only reflex action. W. Edwards Deming
+>Rational behavior requires theory. **Reactive** behavior requires only reflex action. W. Edwards Deming
 
->Our system allows you to respond to the information that is important to you. It allows you to sense and be attuned to more streams of information in parallel. David Rose
+>Our system allows you to respond to the information that is important to you. It allows you to sense and be attuned to more **streams** of information in parallel. David Rose
 
 
 ## RxPY
